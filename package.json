@@ -1,0 +1,36 @@
+{
+  "name": "request-prosperf",
+  "version": "1.0.0",
+  "description": "A library for test responce time of a service",
+  "main": "lib/index",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Smaug6739/request-prosperf.git"
+  },
+  "keywords": [
+    "request",
+    "time",
+    "timeout",
+    "test",
+    "tester"
+  ],
+  "author": "Smaug6739",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Smaug6739/request-prosperf/issues"
+  },
+  "homepage": "https://github.com/Smaug6739/request-prosperf#readme",
+  "devDependencies": {
+    "@types/node": "^16.4.13",
+    "@types/node-fetch": "^2.5.12"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
