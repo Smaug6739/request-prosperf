@@ -1,4 +1,4 @@
-const { RequestTerter } = require('../lib/request');
+const { RequestTerter } = require('../lib/index');
 
 const t = new RequestTerter('http://localhost:8080/ping', {
 	output: 'test/r.json'

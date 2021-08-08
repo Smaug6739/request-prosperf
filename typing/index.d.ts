@@ -1,2 +1,2 @@
 export { RequestTerter } from './request';
-export { ResultResponse } from './result'
+export { ResultResponse } from './result';
